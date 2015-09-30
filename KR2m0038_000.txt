@@ -1,5 +1,0 @@
-# -*- mode: mandoku-view; -*-
-#+TITLE: 欽定滿洲祭神祭天典禮
-#+DATE: 2015-08-24 22:52:11.108580
-#+PROPERTY: ID KR2m0038
-#+PROPERTY: BASEEDITION WYG    
